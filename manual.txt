@@ -1,0 +1,9 @@
+Para roda o programa é necessario tem o SDL2 e o GCC instalado no seu computador.
+se já houver esses programas instalados, abra o terminal e utilize o comando abaixo:
+gcc v2.c -o V -lSDL2 -SDL2_image -lSDL2_mixer -lSDL2_ttf
+apos este codigo, digite:
+./V
+
+Historia
+Shion, nosso personagem principal se vê em apuros quando lacaios liderados por Zereka invadem a terra. Sua única opção é embarcar em uma Galaxy Rush derrotando todos os lacaios para que a paz volte a reinar, porém os lacaios vão ficando mais poderosos ao passar do tempo, então Shion precisará de inteligência e paciência, além de coragem para cumprir sua missão.
+
