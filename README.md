@@ -1,2 +1,2 @@
 # Galaxy-Rush
-teste
+UFRRJ - Computação 1 (2016-1)
