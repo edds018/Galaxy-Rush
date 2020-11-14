@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
      <a href="#" > Galaxy Rush FND/FNC </a>
 </h1>
@@ -63,3 +64,7 @@ Após este codigo, digite:
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 ---
+=======
+# Galaxy-Rush
+UFRRJ - Computação 1 (2016-1)
+>>>>>>> 3abe4f59f995f672d6bea2b5ba691c4f94898d00
