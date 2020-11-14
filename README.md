@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 <h1 align="center">
-     <a href="#" > Galaxy Rush FND/FNC </a>
+     <a href="#" > Galaxy Rush </a>
 </h1>
 <h3 align="center">
     Projeto feito para a Disciplina de Computação 1 da Universidade Federal Rural do Rio de Janeiro
@@ -25,10 +24,13 @@ Tabela de conteúdos
 ## 💻 Sobre o projeto
 
 Projeto desenvolvido durante a Disciplina de Computação 1 no periodo de 2016.1 oferecida pela Universidade Federal Rural do Rio de Janeiro.
+
 ---
 
 ## 🦸 Historia
+
 Shion, nosso personagem principal se vê em apuros quando lacaios liderados por Zereka invadem a terra. Sua única opção é embarcar em uma Galaxy Rush derrotando todos os lacaios para que a paz volte a reinar, porém os lacaios vão ficando mais poderosos ao passar do tempo, então Shion precisará de inteligência e paciência, além de coragem para cumprir sua missão.
+
 ---
 
 ## 🚀 Como Executar o Projeto
@@ -38,6 +40,7 @@ Se já houver esses programas instalados, abra o terminal e utilize o comando ab
 gcc v2.c -o V -lSDL2 -SDL2_image -lSDL2_mixer -lSDL2_ttf
 Após este codigo, digite:
 ./V
+
 ---
 
 ## 👨‍💻 Autores
@@ -64,7 +67,3 @@ Após este codigo, digite:
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 ---
-=======
-# Galaxy-Rush
-UFRRJ - Computação 1 (2016-1)
->>>>>>> 3abe4f59f995f672d6bea2b5ba691c4f94898d00
