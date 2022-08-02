@@ -49,7 +49,7 @@ Após este codigo, digite:
   <tr>
     <td align="center"><a href="https://github.com/edds018"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/20283003?s=400&u=24d9b354295b193681be1bcad171885858e43394&v=4" width="100px;" alt=""/><br /><sub><b>Edson Neves</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/EoqLp"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/23413851?s=400&u=09cb131da4653d6e58a6885a99d1b239e84b8b3e&v=4" width="100px;" alt=""/><br /><sub><b>Felipe Rangel</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/matheusroodri"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/23413851?s=400&u=09cb131da4653d6e58a6885a99d1b239e84b8b3e&v=4" width="100px;" alt=""/><br /><sub><b>Felipe Rangel</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/matheusroodri"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/28354736?v=4" width="100px;" alt=""/><br /><sub><b>Matheus Rodrigues</b></sub></a><br /></td>
     <td align="center"></td>   
   </tr>
 </table>
